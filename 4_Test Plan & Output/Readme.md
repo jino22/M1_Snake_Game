@@ -18,3 +18,7 @@
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |Basic UI display                                              |  SUCCESS   |SUCCESS      |SUCCESS         |PASS              | 
 |  L_02       |Display data                                                  |  SUCCESS   |SUCCESS      |SUCCESS         |PASS              |
+
+## Output
+![4](https://user-images.githubusercontent.com/94283098/143399508-c409d997-385c-4285-94cb-a31877a79557.png)
+![5](https://user-images.githubusercontent.com/94283098/143399518-e8343572-8d29-4d14-bb61-b77e0cd77e01.png)
